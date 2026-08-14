@@ -13,6 +13,7 @@
 | [道具](ProjectZ_tools_catalog.md) | T4/T5上位道具7件、レア道具42件 |
 | [料理・飲み物・消耗品](ProjectZ_consumables_catalog.md) | ランチ、エリクサー、ブースター、刺激剤、飲料の変更 |
 | [改造パーツ](ProjectZ_mod_catalog.md) | Project Z 独自MOD130件の装着先別一覧 |
+| [設備・電力](ProjectZ_facilities_catalog.md) | 制作設備、農業・自動採掘、発電、電気防衛（39件） |
 | [最終装備例](ProjectZ_endgame_loadouts.md) | 汎用・戦闘・隠密・近接・採掘・ルート用の装備例 |
 
 ## 対象バージョン
